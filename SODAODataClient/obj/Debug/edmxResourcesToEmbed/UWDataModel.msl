@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="uwkeydataModelStoreContainer" CdmEntityContainer="uwkeydataEntities">
+    <EntitySetMapping Name="MeterKeys">
+      <EntityTypeMapping TypeName="uwkeydataModel.MeterKey">
+        <MappingFragment StoreEntitySet="MeterKeys">
+          <ScalarProperty Name="MeterID" ColumnName="MeterID" />
+          <ScalarProperty Name="AesKey" ColumnName="AesKey" />
+          <ScalarProperty Name="AesIV" ColumnName="AesIV" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

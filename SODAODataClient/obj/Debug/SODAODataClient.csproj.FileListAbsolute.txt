@@ -1,0 +1,17 @@
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\bin\Debug\SODAODataClient.exe.config
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\bin\Debug\SODAODataClient.exe
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\bin\Debug\SODAODataClient.pdb
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\bin\Debug\EntityFramework.dll
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\bin\Debug\EntityFramework.xml
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\SODAODataClient.csprojResolveAssemblyReference.cache
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\MainWindow.baml
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\MainWindow.g.cs
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\App.g.cs
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\SODAODataClient_MarkupCompile.cache
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\SODAODataClient.g.resources
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\SODAODataClient.Properties.Resources.resources
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\SODAODataClient.csproj.GenerateResource.Cache
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\SODAODataClient.exe
+C:\Users\DarrenOliveiro-Pries\source\Urban Water\ODataClient\SODAODataClient\SODAODataClient\obj\Debug\SODAODataClient.pdb

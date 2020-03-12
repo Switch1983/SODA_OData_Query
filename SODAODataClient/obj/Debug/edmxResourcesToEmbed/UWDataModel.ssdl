@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="uwkeydataModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="uwkeydataModelStoreContainer">
+    <EntitySet Name="MeterKeys" EntityType="uwkeydataModel.Store.MeterKeys" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="MeterKeys">
+    <Key>
+      <PropertyRef Name="MeterID" />
+    </Key>
+    <Property Name="MeterID" Type="nvarchar" Nullable="false" MaxLength="50" />
+    <Property Name="AesKey" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="AesIV" Type="nvarchar(max)" />
+  </EntityType>
+</Schema>
